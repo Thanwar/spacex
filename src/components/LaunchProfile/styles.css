@@ -9,6 +9,7 @@
   
   .LaunchProfile__status {
     margin-top: 40px;
+    font-size: 40px;
   }
   
   .LaunchProfile__title {
@@ -18,6 +19,8 @@
   
   .LaunchProfile__success {
     color: #2cb84b;
+    font-size: 40px;
+    font-weight: bold;
   }
   
   .LaunchProfile__failed {
